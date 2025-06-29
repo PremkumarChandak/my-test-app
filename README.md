@@ -29,5 +29,5 @@ FLASK_APP=app.py flask run --host=0.0.0.0
 Step 4. Test
 Open a browser and go to URL
 
-http://<IP>:8080                            => Welcome
-http://<IP>:8080/how%20are%20you            => I am good, how about you?# my-test-app
+http://127.0.0.1:8080                            => Welcome
+http://127.0.0.1:8080/how%20are%20you            => I am good, how about you?# my-test-app
